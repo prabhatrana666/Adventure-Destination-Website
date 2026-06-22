@@ -8,7 +8,7 @@ A modern, responsive, and visually engaging adventure travel website built with 
 
 <p align="center">
   <a href="https://adventure12.netlify.app/" target="_blank">
-    <img src="[./assets/screenshot.png](https://i.postimg.cc/4yMRS8Dh/image.png)" alt="Adventure Website Preview" width="100%">
+    <img src="https://i.postimg.cc/4yMRS8Dh/image.png" alt="Adventure Website Preview" width="100%">
   </a>
 </p>
 
