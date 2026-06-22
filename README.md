@@ -4,11 +4,11 @@ A beautifully designed front-end web project showcasing holiday destinations wit
 
 ## 🚀 Live Demo
 
-👉 [Visit Website](https://holiday152.netlify.app/)
+👉 [Visit Website]([https://holiday152.netlify.app/](https://adventure12.netlify.app/))
 
 ## 📸 Screenshots
 
-![holiday](https://github.com/user-attachments/assets/b6c69e6e-adec-4e6f-b2bb-232af205046a)(https://holiday152.netlify.app/preview.png) <!-- Optional: Replace with real image or remove -->
+![holiday](https://github.com/user-attachments/assets/b6c69e6e-adec-4e6f-b2bb-232af205046a)([https://holiday152.netlify.app/preview.png](https://adventure12.netlify.app/)) <!-- Optional: Replace with real image or remove -->
 
 ## 🛠️ Technologies Used
 
@@ -50,7 +50,7 @@ Note: This is a static front-end project, no backend or database is used.
 
 📤 Deployment
 This project is hosted on Netlify
-🔗 https://holiday152.netlify.app/
+🔗 [https://adventure12.netlify.app/]
 
 👨‍💻 Author
 Prabhat Rana
