@@ -4,6 +4,16 @@ A modern, responsive, and visually engaging adventure travel website built with 
 
 ---
 
+# 📸 Preview
+
+<p align="center">
+  <a href="https://adventure12.netlify.app/" target="_blank">
+    <img src="[./assets/screenshot.png](https://i.postimg.cc/4yMRS8Dh/image.png)" alt="Adventure Website Preview" width="100%">
+  </a>
+</p>
+
+---
+
 # 🚀 Live Demo
 
 🌐 **Live Website:**
